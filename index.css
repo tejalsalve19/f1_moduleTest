@@ -161,6 +161,12 @@ border-radius: 50px;
     top: 150px;
     background: url(./temple.png);
     border-radius: 20px;
+    background-size: 100%;
+    transition:1s;
+    cursor: zoom-in;
+}
+#image1:hover{
+   background-size: 105%;
 }
 
 #dline1{
@@ -266,6 +272,12 @@ left: 420px;
 top: 35px;
 background: url(./womenwithboy.png);
 border-radius: 20px;
+background-size: 100%;
+transition:1s;
+cursor: zoom-in;
+}
+#image2:hover{
+   background-size: 105%;
 }
 
 #dline2{
@@ -321,6 +333,12 @@ border-radius: 30px;
     top: 20px;
     background: url(women.png);
     border-radius: 20px;
+    background-size: 100%;
+    transition:1s;
+    cursor: zoom-in;
+}
+#image3:hover{
+   background-size: 105%;
 }
 
 #b3p1{
@@ -434,7 +452,13 @@ color: #333333;
     top:100px;
     left: 400px;
     background: url(./man.png);
-    border-radius: 30000px;   
+    border-radius: 30000px; 
+    background-size: 100%;
+    transition:1s;
+    cursor: zoom-in;
+}
+#image4:hover{
+   background-size: 105%;
 }
 #b4p3{
     position: absolute;
